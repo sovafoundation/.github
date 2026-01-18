@@ -1,6 +1,7 @@
-# Sova Foundation
-
 <div align="center">
+
+  # Sova Foundation
+
   <img src="https://raw.githubusercontent.com/sovafoundation/.github/refs/heads/main/profile/assets/sova-banner.jpg" alt="Sova Logo"/>
 
   ### Sova is the native financialization layer for Bitcoin.
